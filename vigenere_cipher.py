@@ -81,6 +81,6 @@ def prompt_user():
         print("Decrypted message: ")
         print(decrypt_text)
     else:
-        print("You did not enter a valid anser")
+        print("You did not enter a valid answer")
 
 prompt_user()
